@@ -1,0 +1,35 @@
+body {
+  background-image: url("fons_ziema.jpg");;
+  color: midnightblue;
+  font-family: "Georgia", Serif;
+}
+h1 {color: lightslategrey;  
+}
+
+table caption {
+  text-shadow: 2px 2px 5px lightsteelblue;
+  font-family: "Courier New", Monospace;
+  font-size: 20px
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+th {
+  background-color: lightsteelblue;
+  color: black;
+}
+ td {
+  background-color: white;
+  color: black;
+}
+ul {
+  list-style-type: circle;
+}
+
+/* 
+    Created on : 2021. gada 1. marts, 01:24:59
+    Author     : Agneta
+*/
+
